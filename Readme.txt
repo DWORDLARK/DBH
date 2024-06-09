@@ -48,6 +48,7 @@
  ActivePage=0		active/selected page,  set to -1 to disable (first Page is selected as default)
  ActiveMemo=0		active/selected memo page,  set to -1 to disable (first Page is selected as default)
  Style=Windows		Selected window Style
+ SaveData=0		Set 1 to Save text fields data
 
 --------------------------------------------------------------------------------------------------------------
 
